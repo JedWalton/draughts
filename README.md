@@ -1,3 +1,3 @@
 # draughts
 
-Source code found in draughts/draughts/test/src/main/java/assignment1/
+Source code found in draughts/test/src/main/java/assignment1/
